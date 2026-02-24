@@ -1,0 +1,16 @@
+  # Comunicação ModbusTCP
+  pymodbus==3.6.9
+
+  # DDS
+  cyclonedds==0.10.2
+
+  # Computação numérica
+  numpy==1.24.4
+
+  # Interface gráfica (opcional, apenas se quiser usar Vision_driver)
+  PyQt5==5.15.11
+  pyqtgraph==0.13.3
+
+  # Utilitários
+  pyserial==3.5
+
